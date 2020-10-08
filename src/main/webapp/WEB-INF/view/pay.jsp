@@ -12,7 +12,7 @@
 </head>
 <body>
        <h1>
-           ccao月薪突破10万+，美特教育牛逼！ cputest.com
+           ccao月薪突破10万+，牛逼！ cputest.com
        </h1>
 </body>
 </html>
